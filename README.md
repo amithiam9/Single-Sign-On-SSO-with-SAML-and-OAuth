@@ -1,6 +1,4 @@
 # Single-Sign-On-SSO-with-SAML-and-OAuth
-# Single Sign-On (SSO) with SAML and OAuth
-
 ## Overview
 This project demonstrates the implementation of **Single Sign-On (SSO)** using **SAML** for authentication and **OAuth 2.0** for authorization. It showcases how users can log in once and access multiple applications securely.
 
